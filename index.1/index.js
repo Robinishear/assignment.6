@@ -125,14 +125,3 @@ function getWords(lessonId) {
 }
 
 
-// fetch("https://openapi.programming-hero.com/api/levels/all", {
-//   method: "GET",
-//   headers: {
-//       "Authorization": "Bearer YOUR_API_KEY",
-//       "Content-Type": "application/json"
-//   }
-// })
-// .then(response => response.json())
-// .then(data => console.log(data))
-// .catch(error => console.error("Error:", error));
-
